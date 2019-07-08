@@ -14,8 +14,19 @@
     <title>Score Board</title>
 </head>
 <body>
+
+<div id="overlay" onclick="off()">
+    <div id="text">Coming Soon</div>
+</div>
+<a onclick="on()">
 <div class="container-fluid">
     <h1>Score Board Tracker</h1>
+
+
+
+
+
+
 
 
 <div class="container px-lg-5">
@@ -43,7 +54,23 @@
         </div>
     </div>
 </div>
+
 </div>
+</a>
+
+<script>
+    function on() {
+        document.getElementById("overlay").style.display = "block";
+
+        setTimeout(on, 3000);
+    }
+
+    function off() {
+        document.getElementById("overlay").style.display = "none";
+
+    }
+
+</script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>
