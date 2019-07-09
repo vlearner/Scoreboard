@@ -3,12 +3,19 @@ h1, h3{
     display: inline;
 }
 
+
+
 input, button{
     border:none;
     background: none;
     color: inherit;
     outline: inherit;
     outline-color: inherit;
+}
+
+#teamBlock{
+    font-size: 30px;
+    font-size: 3.5vw;
 }
 
 #overlay {

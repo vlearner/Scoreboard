@@ -18,7 +18,7 @@
 <div id="overlay" onclick="off()">
     <div id="text">Coming Soon</div>
 </div>
-<a onclick="on()">
+<!--<a onclick="on()">-->
 <div class="container-fluid">
     <h1>Score Board Tracker</h1>
 
@@ -30,10 +30,10 @@
 
 
 <div class="container px-lg-5">
-    <div class="row mx-lg-n5">
-        <div class="col py-3 px-lg-5 border" style="background-color: darkgrey">
-            <h3>Team 1</h3>
-            <button>
+    <div class="row mx-lg-n5" id="teamBlock">
+        <div class="col py-3 px-lg-5 border"  style="background-color: darkgrey">
+            <h3><input type="text" value="Team 1" disabled style=" font-size: 30px;,font-size: 3.5vw;" ></h3>
+            <button type="button" name="team1">
                 <svg id="i-edit" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
                     <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
                 </svg>
@@ -42,8 +42,8 @@
         </div>
         <div class="col py-3 px-lg-5 border" style="background-color: darkgrey">
             <div>
-            <h3>Team 2</h3>
-                <button>
+            <h3><input type="text" value="Team 2" disabled ></h3>
+                <button type="button" name="team2" onclick="">
                     <svg id="i-edit" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
                         <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
                     </svg>
@@ -56,21 +56,9 @@
 </div>
 
 </div>
-</a>
+<!--</a>-->
 
-<script>
-    function on() {
-        document.getElementById("overlay").style.display = "block";
-
-        setTimeout(on, 3000);
-    }
-
-    function off() {
-        document.getElementById("overlay").style.display = "none";
-
-    }
-
-</script>
+<script src="js/index.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>
