@@ -8,7 +8,10 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
             crossorigin="anonymous">
+        <link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" type="text/css" href="css/index.css">
+        <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+
 
         <title>Score Board</title>
     </head>
@@ -42,26 +45,18 @@
                         </button>
                         <div id="Score1">0</div>
                         <div>
-                            <img src="assets/svg/plus.svg" alt="Plus" >
-                            <img src="assets/svg/dash.svg" alt="Minus">
+                            <button class="btnPlus"><i class="ion-ios-plus"></i></button>
+                            <button> <i class="ion-md-remove-circle"></i></button>
                         </div>
                     </div> <!--End Team 1-->
 
                     <div class="col py-3 px-lg-5 border" style="background-color: darkgrey">
                         <div>
-                        <div id="Team2"><h3>Team</h3></div>
-                        
-                            <button type="button" name="team2" onclick="enableButton()" hidden>
-                                <svg id="i-edit" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-                                    <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z" />
-                                </svg>
-                            </button>
-
-                       
+                        <div id="Team2"><h3>Team</h3></div>                       
                         <div id="Score2">0</div>
                         <div>
-                            <img src="assets/svg/plus.svg" alt="Plus" >
-                            <img src="assets/svg/dash.svg" alt="Minus">
+                            <button class="btnPlus"><i class="ion-ios-plus"></i></button>
+                            <button> <i class="ion-md-remove-circle"></i></button>
                         </div>
                        
                     </div><!--End Team 2-->
