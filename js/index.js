@@ -13,6 +13,17 @@ init ()
     document.querySelector('#Score2').textContent = finalScore2;
    })
 
+   document.querySelector(".btnMinus1").addEventListener('click', function(){
+    deductScore = 5;
+    finalScore1 -= deductScore;
+    document.querySelector('#Score1').textContent = finalScore1;
+   })
+   
+   document.querySelector(".btnMinus2").addEventListener('click', function(){
+    deductScore = 5;
+    finalScore2 -= deductScore;
+    document.querySelector('#Score2').textContent = finalScore2;
+   })
    function on() {
         document.getElementById("overlay").style.display = "block";
 
