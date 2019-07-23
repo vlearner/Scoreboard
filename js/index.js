@@ -1,4 +1,3 @@
-
 var addScore, deductScore, finalScore1, finalScore2
 init ()
    
@@ -25,20 +24,6 @@ init ()
     finalScore2 -= deductScore;
     document.querySelector('#Score2').textContent = finalScore2;
    })
-   function on() {
-        document.getElementById("overlay").style.display = "block";
-
-        setTimeout(on, 3000);
-    }
-
-    function off() {
-        document.getElementById("overlay").style.display = "none";
-
-    }
-
-    function enableButton(){
-        document.getElementById("teamName").disabled = true;
-    }
 
     function init (){
 
@@ -54,15 +39,3 @@ init ()
         document.getElementById('Score2').textContent = '0';
 
     }
-
-function on() {
-    document.getElementById("overlay").style.display = "block";
-
-    setTimeout(on, 3000);
-}
-
-function off() {
-    document.getElementById("overlay").style.display = "none";
-
-}
-
