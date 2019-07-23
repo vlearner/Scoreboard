@@ -1,7 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
+    <list default="true" id="73113c8c-b8bd-4deb-a07a-84042a6214f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/svg/alert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/archive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/arrow-both.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/arrow-small-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/arrow-small-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/arrow-small-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/arrow-small-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/arrow-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/beaker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/bell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/broadcast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/browser.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/bug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/checklist.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/chevron-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/chevron-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/chevron-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/chevron-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/circle-slash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/circuit-board.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/clippy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/cloud-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/cloud-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/comment-discussion.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/comment.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/credit-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/dash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/dashboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/database.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/dependent.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/desktop-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/device-camera-video.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/device-camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/device-desktop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/device-mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/diff-added.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/diff-ignored.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/diff-modified.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/diff-removed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/diff-renamed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/diff.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/ellipsis.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/eye-closed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/file-binary.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/file-code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/file-directory.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/file-media.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/file-pdf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/file-submodule.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/file-symlink-directory.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/file-symlink-file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/file-zip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/flame.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/fold-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/fold-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/fold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/gear.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/gift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/gist-secret.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/gist.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/git-branch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/git-commit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/git-compare.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/git-merge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/git-pull-request.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/github-action.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/globe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/grabber.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/graph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/history.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/horizontal-rule.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/hubot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/inbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/issue-closed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/issue-opened.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/issue-reopened.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/jersey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/kebab-horizontal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/kebab-vertical.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/key.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/keyboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/law.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/light-bulb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/link-external.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/list-ordered.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/list-unordered.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/logo-gist.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/logo-github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/mail-read.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/mark-github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/markdown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/megaphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/mention.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/milestone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/mirror.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/mortar-board.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/mute.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/no-newline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/octoface.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/organization.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/package.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/paintcan.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/pencil.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/plug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/plus-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/primitive-dot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/primitive-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/project.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/pulse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/question.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/quote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/radio-tower.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/reply.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/repo-clone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/repo-force-push.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/repo-forked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/repo-pull.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/repo-push.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/repo-template-private.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/repo-template.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/repo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/report.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/request-changes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/rocket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/ruby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/screen-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/screen-normal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/server.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/settings.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/shield-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/shield-lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/shield-x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/shield.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/sign-in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/sign-out.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/skip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/smiley.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/squirrel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/stop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/sync.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/tasklist.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/telescope.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/terminal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/text-size.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/three-bars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/thumbsdown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/thumbsup.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/tools.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/trashcan.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/triangle-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/triangle-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/triangle-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/triangle-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/unfold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/unmute.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/unverified.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/verified.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/versions.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/watch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/svg/zap.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+
     <list default="true" id="73113c8c-b8bd-4deb-a07a-84042a6214f9" name="Default Changelist" comment="" />
+
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,15 +207,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+
+            <state relative-caret-position="74">
+              <caret line="45" column="67" lean-forward="true" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+
             <state relative-caret-position="45">
               <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+
               </folding>
             </state>
           </provider>
@@ -31,8 +236,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="720">
+              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -61,10 +266,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+
+    <option name="x" value="160" />
+    <option name="y" value="100" />
+    <option name="width" value="960" />
+    <option name="height" value="600" />
+
     <option name="x" value="1380" />
     <option name="y" value="-18" />
     <option name="width" value="1732" />
     <option name="height" value="800" />
+
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -73,6 +285,9 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+
+      <pane id="ProjectPane" />
+
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,6 +309,7 @@
           <select />
         </subPane>
       </pane>
+
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -116,6 +332,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Scoreboard/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -126,49 +352,71 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562549491496</updated>
+
+      <workItem from="1562549492714" duration="5756000" />
+      <workItem from="1563664966128" duration="181000" />
+      <workItem from="1563716274289" duration="348000" />
+
       <workItem from="1562549492714" duration="6532000" />
+
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+
+    <option name="totallyTimeSpent" value="6285000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="160" y="100" width="960" height="600" extended-state="0" />
+
     <option name="totallyTimeSpent" value="6532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1380" y="-18" width="1732" height="800" extended-state="0" />
+
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18284024" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18954249" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.31920904" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32874015" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31889763" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/index.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        <state relative-caret-position="74">
+          <caret line="45" column="67" lean-forward="true" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -180,6 +428,7 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+
         </state>
       </provider>
     </entry>

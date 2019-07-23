@@ -1,5 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+            integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+            crossorigin="anonymous">
+        <link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+
+
+        <title>Score Board</title>
+    </head>
+    <body>
+        <div class="container-fluid">
+
+            <div class="sidebar"></div>
+
+            <div id="title">
+                <h1>Score Board</h1>
+            </div> 
+             
+            <!--Team Blocks-->
+            <div class="container px-lg-5">
+                <div class="row mx-lg-n5" id="teamBlock">
+                    <div class="col py-3 px-lg-5 border"  style="background-color: darkgrey">
+                    <div id="Team1"><h3>Team</h3></div>
+                        <div id="Score1">0</div>
+                        <div>
+                            <button class="btnPlus1"><i class="ion-ios-plus"></i></button>
+                            <button class="btnMinus1"> <i class="ion-md-remove-circle"></i></button>
+                        </div>
+                    </div> <!--End Team 1-->
+                    <div class="col py-3 px-lg-5 border" style="background-color: darkgrey">
+                        <div>
+                        <div id="Team2"><h3>Team</h3></div>                       
+                        <div id="Score2">0</div>
+                        <div>
+                            <button class="btnPlus2"><i class="ion-ios-plus"></i></button>
+                            <button class="btnMinus2"> <i class="ion-md-remove-circle"></i></button>
+                        </div>  
+                    </div><!--End Team 2-->
+                </div> 
+            </div><!--End Team Blocks-->
+
+        </div> <!--End container-fluid-->
+
+        <script src="js/index.js"></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+                integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+                crossorigin="anonymous">
+        </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+                integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+                crossorigin="anonymous">
+        </script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+                integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+                crossorigin="anonymous">
+        </script>
+    </body>
+
 <head>
 
     <meta charset="utf-8">
@@ -71,4 +136,5 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
 </body>
+
 </html>

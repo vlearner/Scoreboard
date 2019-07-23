@@ -1,7 +1,14 @@
-
-h1, h3{
-    display: inline;
+body{
+    font-size: 3.5vw;
 }
+
+/* h1, h3{
+    display: inline;
+} */
+
+
+
+
 
 input, button{
     border:none;
@@ -9,6 +16,12 @@ input, button{
     color: inherit;
     outline: inherit;
     outline-color: inherit;
+}
+
+#teamBlock{
+    font-size: 30px;
+    font-size: 3.5vw;
+
 }
 
 #overlay {
@@ -33,4 +46,15 @@ input, button{
     color: white;
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%);
+}
+
+
+#team1{
+ color: red;
+}
+
+
+#title{
+    text-align: center;
+    font-style: oblique;
 }
