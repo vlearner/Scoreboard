@@ -15,13 +15,26 @@ init ()
 
    document.querySelector(".btnMinus1").addEventListener('click', function(){
     deductScore = 5;
-    finalScore1 -= deductScore;
+    if (finalScore1 <= 0) {
+       finalScore1 = finalScore1 
+    }
+    else{
+        finalScore1 -= deductScore;
+    }
+    
     document.querySelector('#Score1').textContent = finalScore1;
    })
    
    document.querySelector(".btnMinus2").addEventListener('click', function(){
     deductScore = 5;
-    finalScore2 -= deductScore;
+    if (finalScore2 <= 0) {
+        finalScore2 = finalScore2 
+     }
+     else{
+         finalScore2 -= deductScore;
+     }
+
+
     document.querySelector('#Score2').textContent = finalScore2;
    })
 
