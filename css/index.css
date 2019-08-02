@@ -3,7 +3,8 @@ body{
     font-size: 3.5vw;
     background-image: url("https://images.unsplash.com/photo-1552667466-07770ae110d0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
     background-image: url("https://images.unsplash.com/photo-1547992454-782f6b4c986c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
-    
+    background-size: auto;
+    background-repeat: no-repeat;
 }
 
 
